@@ -1,0 +1,5 @@
+As was disclosed in a private professor email, due to catastrophic tech error on my external hard drive, at one point the code for this project was reconstructed from an
+exported, HTML version of the game using Claude. There was no workable alternative to maintain the project as it existed, no copies nor recovery tool existed, and so
+this is the option I was left with. The organization and function of the code is identical to my own, but the line by line code style is considerably altered. For full
+transparency, the claude chat log is available here:
+https://claude.ai/share/28e5e84f-d080-4c5d-8867-9dd6045c9396
